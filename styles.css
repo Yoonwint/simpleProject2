@@ -102,12 +102,12 @@ header {
     margin-top: 5px;
 }
 
-.homeVideo div videoOne {
+.homeVideo div .videoOne {
     width: 100%;
     padding: 30px 20px;
 }
 
-.homeVideo div videoTwo{
+.homeVideo div .videoTwo{
     width: 80%;
     padding: 30px 20px;
 }
