@@ -1,5 +1,6 @@
 # Simple Project 2
-The website utilizes advanced HTML and CSS techniques, including 2D transforms, CSS Grid, Flexbox, and sophisticated layout management, to create a visually appealing and user-friendly experience.
+## Overview
+The website is about Kdrama website which utilizes advanced HTML and CSS techniques, including 2D transforms, CSS Grid, Flexbox, and sophisticated layout management, to create a visually appealing and user-friendly experience.
 
 ## Technologies Used 
 - **HTML**: Structured the website content using semantic HTML5 elements for accessibility and SEO.
