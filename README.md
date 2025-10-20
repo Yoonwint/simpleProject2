@@ -5,10 +5,10 @@ The website is about Kdrama website which utilizes advanced HTML and CSS techniq
 ## Technologies Used 
 - **HTML**: Structured the website content using semantic HTML5 elements for accessibility.
 - **CSS**: Styled the page with advanced CSS concepts, including:
-  ***2D Transforms**: Used for dynamic interactions, like enlarge elements for hover effects.
-  ***CSS Grid**: Applied for the layout of features, creating a responsive grid structure.
-  ***Flexbox**: Used to align content and ensure a fluid, flexible design for different screen sizes.
-  ***Box Shadows & Transitions**: Added visual depth and smooth transitions to enhance the user experience.
+  - **2D Transforms**: Used for dynamic interactions, like enlarge elements for hover effects.
+  - **CSS Grid**: Applied for the layout of features, creating a responsive grid structure.
+  - **Flexbox**: Used to align content and ensure a fluid, flexible design for different screen sizes.
+  - **Box Shadows & Transitions**: Added visual depth and smooth transitions to enhance the user experience.
 
 ## Demo
 - You can view the live demo of the K-Drama website at **https://yoonwint.github.io/simpleProject2/**.
